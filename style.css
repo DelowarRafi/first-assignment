@@ -1,0 +1,52 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  font-size: 80px;
+}
+  .expareance{
+    text-align: center;
+    padding-top: 1000px;
+    padding-bottom: 1100px;
+   
+    background-image: url(donate-today-main/images/donation3.jpg);
+       background-image: width 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    color: white;
+    bottom: 10px;
+    background-size: cover;
+    
+}
+.lind-button{
+  text-decoration: none;
+  background-image: linear-gradient(tomato,red);
+  padding: 10px 50px;
+  border-radius: 15px;
+  color: aliceblue;
+  font-weight: 700px;
+}
+.middle{
+  text-align: center;
+}
+.paragraph-middle{
+  text-align: center;
+}
+.side-by-side{
+  display: flex;
+ font-size: 100px;
+ text-align: center;
+ box-shadow: inset sold slategray;
+
+}
+#one{
+  padding-left: 7%;
+}
+#two{
+  padding-left: 7%;
+}
+#three{padding-left: 7%;
+}
+#four{padding-left: 7%;
+}
+#five{padding-left: 7%;
+}
