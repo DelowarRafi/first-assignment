@@ -19,7 +19,7 @@ body{
 }
 .lind-button{
   text-decoration: none;
-  background-image: linear-gradient(tomato,red);
+  background-image: linear-gradient(tomato,orange);
   padding: 10px 50px;
   border-radius: 15px;
   color: aliceblue;
@@ -31,22 +31,64 @@ body{
 .paragraph-middle{
   text-align: center;
 }
-.side-by-side{
+.father{
   display: flex;
- font-size: 100px;
- text-align: center;
- box-shadow: inset sold slategray;
+  align-items: center;
+  justify-content: center;
+  font-size: 100px;
+  color: black;
+ border-radius: 10%;
+}
+.children{
+  height: 500px;
+  width: 500px;
+  background-color:darkgrey;
+    margin:10px;
+  align-items:center;
+  display:flex;
+  justify-content: center;
+  border-radius: 15px;
+}
+#second-taka{
+  background-color: brown;
+}
+.amount{
+text-align:center;
+}
+u{
+  width: 80%;
+}
+.link2{
+  text-decoration: none;
+  background-image: linear-gradient(tomato,red);
+  padding: 10px 50px;
+  border-radius: 15px;
+  color: aliceblue;
+  font-weight: 700px;
+ }
+#second-fart{
+  text-align: center;
+ }
+ .therd-fard{
+ 
+ }
+ .food-shelter-education{
+  display: flex;
+   align-items: center;
+  justify-content: center;
+  height: 150%;
+  width: 70%;
+  margin-left: 15%;
+  padding-left: 1%;
+  border-radius: 15%;
 
-}
-#one{
-  padding-left: 7%;
-}
-#two{
-  padding-left: 7%;
-}
-#three{padding-left: 7%;
-}
-#four{padding-left: 7%;
-}
-#five{padding-left: 7%;
-}
+ }
+ #food{
+  background-color: rgb(200, 238, 253);
+ }
+ #shelter{
+  background-color: rgb(248, 206, 213);
+ }
+ #education{
+  background-color: rgb(228, 225, 221);
+ }
