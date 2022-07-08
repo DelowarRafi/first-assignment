@@ -51,6 +51,7 @@ body{
 }
 #second-taka{
   background-color: brown;
+  border: 20px solid tomato;
 }
 .amount{
 text-align:center;
@@ -61,22 +62,23 @@ u{
 .link2{
   text-decoration: none;
   background-image: linear-gradient(tomato,red);
-  padding: 10px 50px;
-  border-radius: 15px;
+   border-radius: 15px;
   color: aliceblue;
   font-weight: 700px;
+  padding: 10px 50px;
+
  }
 #second-fart{
   text-align: center;
  }
  .therd-fard{
- 
+ padding-left: 5%;
  }
  .food-shelter-education{
   display: flex;
    align-items: center;
   justify-content: center;
-  height: 150%;
+  height: 170%;
   width: 70%;
   margin-left: 15%;
   padding-left: 1%;
@@ -85,10 +87,69 @@ u{
  }
  #food{
   background-color: rgb(200, 238, 253);
+  margin: 2%;
+  border-radius: 15px;
+  padding: 100px;
+  padding-top: 250px;
+  background-image: url(donate-today-main/icons/food.png);
+  background-repeat: no-repeat;
+background-size: 20%;
+
  }
  #shelter{
   background-color: rgb(248, 206, 213);
+  margin: 2%;
+  border-radius: 15px;
+  padding: 100px;
+  padding-top: 250px;
+  background-image: url(donate-today-main/icons/shelter.png);
+  background-repeat: no-repeat;
+  background-size: 20%;
  }
  #education{
-  background-color: rgb(228, 225, 221);
+  background-color:moccasin;
+  margin: 2%;
+  border-radius: 15px;
+  padding: 100px;
+  padding-top: 250px;
+  background-image:url(donate-today-main/icons/Frame-1.png);
+  background-repeat: no-repeat;
+  background-size: 20%;
  }
+ #update{
+  text-align: center;
+ }
+  footer{
+  text-align: center;
+  background-color: black;
+  height: 5%;
+  width: 100%;
+  display: block;
+  color:tomato;
+  padding: top 4%;
+ }
+ #footer{
+  color: darkgray;
+   }
+   .blank{
+display: inline-block;
+padding: 100px;
+  }
+   #email{
+
+      }
+   .backcover{
+    size: 100%;
+    background-color: bisque;
+   height: 100%;
+    width: 100%;
+    text-align: center;
+  
+   }
+   .form{
+    height: 700px;
+    width: 900px;
+   }
+   .botton{
+    height: 50%;
+   }
