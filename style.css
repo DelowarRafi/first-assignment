@@ -50,7 +50,7 @@ body{
   border-radius: 15px;
 }
 #second-taka{
-  background-color: brown;
+  background-color: rgb(212, 172, 172);
   border: 20px solid tomato;
 }
 .amount{
@@ -62,10 +62,13 @@ u{
 .link2{
   text-decoration: none;
   background-image: linear-gradient(tomato,red);
-   border-radius: 15px;
-  color: aliceblue;
-  font-weight: 700px;
-  padding: 10px 50px;
+  border-radius: 15px;
+ color: aliceblue;
+ font-weight: 700px;
+ padding: 10px 50px;
+ margin-left: 43%;
+
+ 
 
  }
 #second-fart{
@@ -92,6 +95,7 @@ u{
   padding: 100px;
   padding-top: 250px;
   background-image: url(donate-today-main/icons/food.png);
+ 
   background-repeat: no-repeat;
 background-size: 20%;
 
@@ -120,33 +124,32 @@ background-size: 20%;
   text-align: center;
  }
  .backcover{
-  size: 100%;
+ padding-top: 3%;
+ padding-bottom: 3%;
+ margin-left: 17%;
+ margin-right: 17%;
   background-color: bisque;
-  height: 1500%;
-  width: 100%;
-  text-align: center;
-  margin: 0%;
+    text-align: center;
+ 
  }
  .email{
- 
-  height: 80px;
+   height: 80px;
   width: 30%;
   font-size: 60px;
-  margin: 0%;
+ 
  }
  .button{
-  
-  height: 80px;
+      height: 80px;
   width: 20%;
   font-size: 60px;
   background-color: tomato;
   color: white;
-  margin: 0%;
+ 
  }
   footer{
   text-align: center;
   background-color: black;
-  height: 5%;
+  height: 600px;
   width: 100%;
   display: block;
   color:tomato;
@@ -154,10 +157,11 @@ background-size: 20%;
  }
  #footer{
   color: darkgray;
+  display: inline-block;
+  padding-bottom: 150px;
    }
-   .blank{
-display: inline-block;
-padding: 100px;
-  }
+   .humble{
+    padding-top: 150px;
+   }
   
       
