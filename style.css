@@ -119,6 +119,30 @@ background-size: 20%;
  #update{
   text-align: center;
  }
+ .backcover{
+  size: 100%;
+  background-color: bisque;
+  height: 1500%;
+  width: 100%;
+  text-align: center;
+  margin: 0%;
+ }
+ .email{
+ 
+  height: 80px;
+  width: 30%;
+  font-size: 60px;
+  margin: 0%;
+ }
+ .button{
+  
+  height: 80px;
+  width: 20%;
+  font-size: 60px;
+  background-color: tomato;
+  color: white;
+  margin: 0%;
+ }
   footer{
   text-align: center;
   background-color: black;
@@ -135,21 +159,5 @@ background-size: 20%;
 display: inline-block;
 padding: 100px;
   }
-   #email{
-
-      }
-   .backcover{
-    size: 100%;
-    background-color: bisque;
-   height: 100%;
-    width: 100%;
-    text-align: center;
   
-   }
-   .form{
-    height: 700px;
-    width: 900px;
-   }
-   .botton{
-    height: 50%;
-   }
+      
